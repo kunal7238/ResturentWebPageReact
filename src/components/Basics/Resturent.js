@@ -10,7 +10,7 @@ const uniqueList = [...new Set(
     })
 ),"All",];
 
-console.log(uniqueList);
+
 
 
 const Resturent = () => {
