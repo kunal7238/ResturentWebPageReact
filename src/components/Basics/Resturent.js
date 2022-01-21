@@ -15,6 +15,7 @@ const uniqueList = [...new Set(
 
 const Resturent = () => {
     const [menuData, SetMenuData] = useState(Menu);
+    // eslint-disable-next-line no-unused-vars
     const [menuList, setMenuList] =useState(uniqueList);
 
 
